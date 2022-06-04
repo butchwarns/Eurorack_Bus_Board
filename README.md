@@ -8,6 +8,9 @@ It's cheap and easy to build and has many slots for connecting modules with both
 
 ## Motivation
 
+I designed this bus board for use in my modular synthesizer projects. Thought i'd share the project with other synth builders.
+(Gerber files in the repo can be directly uploaded to your pcb manufacturer of choice. Interactive BOM for easy assembly included.)
+
 ## A word of caution
 
 **CAUTION:** If you build this bus board (or anything else involved in powering your modules for that matter), be sure you know how to check for errors in the build before actually hooking it up to power or any precious modules! Don't fry a module with a connector wrongly soldered upside down!
@@ -18,6 +21,8 @@ The *main* branch of this repository holds the current tested version of the boa
 
 ## Tech/framework used
 
+- KiCad
+
 ## Features
 
 - Connection for 20 modules (split evenly between 10-pin and 16-pin headers)
@@ -27,14 +32,20 @@ The *main* branch of this repository holds the current tested version of the boa
 
 ## Installation
 
+M3 screws and PCB spacers can be used to mount the board to the back of a case.  
+Regular 6.3mm flat connectors are used for connecting to the power suppply.
+
 ## How to use?
 
+Connect some modules and power the case?
+
 ## How to build?
+
+
 
 ## Documentation
 
 ## License
-The **ncurses-Cellular-Automaton** project is released under the MIT license.
 
 Copyright © 2021 Butch Warns
 
