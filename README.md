@@ -41,11 +41,25 @@ Connect some modules and power the case?
 
 ## How to build?
 
+Upload the *.zip* in the `gerber_files/` folder to your PCB manufacturer's website to order.
 
+An interactive HTML BOM is available in the `bom/` folder. Just open it in a browser and tick off sourced/placed components.  
+Also shows where on the board components should be placed.  
 
-## Documentation
+**HINT:** Use good quality solder/flux and clean the board thoroughly after soldering!  
+Flux residue (especially from low quality solder) may form slightly conductive bridges between power rails, which are very noticeable when there's 40 of them in parallel. I recommend isopropyl alcohol aka. isopropanol for cleaning circuit boards.
+
+## Component availability/choices
+
+No unobtainium in this project. All components should be easily sourced.  
+
+Any 1.8mm LEDs will do fine. You might need to tweak the current limiting resistors for equal brightness, which can be easily done on a breadboard beforehand.  
+
+Capacitor values are absolutely uncritical as well. The board would probably work with all R,C and LED omitted, although this was neither intended nor tested.
 
 ## License
+
+TODO
 
 Copyright © 2021 Butch Warns
 
