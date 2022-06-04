@@ -6,7 +6,6 @@ It's cheap and easy to build and has many slots for connecting modules with both
 ![bus board assembled](/pictures/eurorack_bus_board_v010_assembled.jpg?raw=true "bus board assembled")
 *Eurorack_Bus_Board (v0.1.0)*
 
-
 ## Motivation
 
 ## A word of caution
@@ -15,7 +14,7 @@ It's cheap and easy to build and has many slots for connecting modules with both
 
 ## Project status
 
-The *main* branch of this repository holds the current tested version of the board. All potentially breaking changes will be done on the *develop* branch and the build will be tested before merging.
+The *main* branch of this repository holds the current tested version of the board. All potentially breaking changes will be done on the *develop* branch and the build will be tested before merging. Images in this README do not necessarily show the most recent version of the board, though all images will have version numbers in their title.
 
 ## Tech/framework used
 
