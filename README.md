@@ -53,7 +53,7 @@ Flux residue (especially from low quality solder) may form slightly conductive b
 
 No unobtainium in this project. All components should be easily sourced.  
 
-Any 1.8mm LEDs will do fine. You might need to tweak the current limiting resistors for equal brightness, which can be easily done on a breadboard beforehand.  
+Any 1.8mm LEDs will do fine. You might need to tweak the current limiting resistors for equal brightness, which can easily be done on a breadboard.  
 
 Capacitor values are absolutely uncritical as well. The board would probably work with all R,C and LED omitted, although this was neither intended nor tested.
 
