@@ -8,7 +8,7 @@ It's cheap and easy to build and has many slots for connecting modules with both
 
 ## Motivation
 
-I designed this bus board for use in my modular synthesizer projects. Thought i'd share the project with other synth builders.
+I designed this bus board for use in my own modular synthesizer projects. Thought i'd share the board with other synth builders.
 (Gerber files in the repo can be directly uploaded to your pcb manufacturer of choice. Interactive BOM for easy assembly included.)
 
 ## A word of caution
@@ -17,7 +17,7 @@ I designed this bus board for use in my modular synthesizer projects. Thought i'
 
 ## Project status
 
-The *main* branch of this repository holds the current tested version of the board. All potentially breaking changes will be done on the *develop* branch and the build will be tested before merging. Images in this README do not necessarily show the most recent version of the board, though all images will have version numbers in their title.
+The *main* branch of this repository holds the current tested version of the board. All potentially breaking changes will be done on the *develop* branch and the build will be tested before merging. Images in this README do not necessarily show the most recent version of the board, though all images will have version numbers in their title.  
 
 ## Tech/framework used
 
