@@ -30,7 +30,7 @@ The *main* branch of this repository holds the current tested version of the boa
 ## Features
 
 - Connection for 20 modules (split evenly between 10-pin and 16-pin headers)
-- Designed for use with standard +12V, -12V, +5V power.  
+- +12V, -12V, +5V
 - Follows the Doepfer Eurorack standard including the internal busses for CV and gate.  
 - Three LEDs indicate the rails being powered.
 - 1.5A max current per rail (can probably take a bit more with appropriate wiring, but better be on the safe side)
