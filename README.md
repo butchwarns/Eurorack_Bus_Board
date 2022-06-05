@@ -13,9 +13,9 @@ I designed this bus board for use in my own modular synthesizer projects. Though
 
 ## A word of caution
 
-**CAUTION:** If you build this bus board (or anything else involved in powering your modules for that matter), be sure you know how to check for errors in the build before actually hooking it up to power or any precious modules! Don't fry a module with a connector wrongly soldered upside down!  
+**CAUTION:** Use the files in this repository at your own risk!  
 
-Use the files in this repository at your own risk!  
+If you build this bus board (or anything else involved in powering your modules for that matter), be sure you know how to check for errors in the build before actually hooking it up to power or any precious modules! Don't fry a module with a connector wrongly soldered upside down!  
 
 I will do my best to test everything, but the occasional bug might still find its way into the project files. Don't hesitate to report found bugs or share ideas on how to improve the board.
 
@@ -33,6 +33,7 @@ The *main* branch of this repository holds the current tested version of the boa
 - Designed for use with standard +12V, -12V, +5V power.  
 - Follows the Doepfer Eurorack standard including the internal busses for CV and gate.  
 - Three LEDs indicate the rails being powered.
+- 1.5A max current per rail (can probably take a bit more with appropriate wiring, but better be on the safe side)
 
 ## Installation
 
@@ -41,7 +42,9 @@ Regular 6.3mm flat connectors are used for connecting to the power suppply.
 
 ## How to use?
 
-Connect some modules and power the case?
+Connect some modules and power the case?  
+
+You can connect power to either side of the board or even chain multiple bus boards in series. (Do not exceed maximum current!)
 
 ## How to build?
 
