@@ -35,6 +35,8 @@ The *main* branch of this repository holds the current tested version of the boa
 - Three LEDs indicate the rails being powered.
 - 1.5A max current per rail (can probably take a bit more with appropriate wiring, but better be on the safe side)
 
+Designed to work with the [Eurorack_PSU](https://github.com/butchwarns/Eurorack_PSU/), but can also be used in conjunction with other power supply units.
+
 ## Installation
 
 M3 screws and PCB spacers can be used to mount the board to the back of a case.  
