@@ -47,7 +47,7 @@ An interactive HTML BOM is available in the `bom/` folder. Just open it in a bro
 Also shows where on the board components should be placed.  
 
 **HINT:** Use good quality solder/flux and clean the board thoroughly after soldering!  
-Flux residue (especially from low quality solder) may form slightly conductive bridges between power rails, which are very noticeable when there's 40 of them in parallel. I recommend isopropyl alcohol aka. isopropanol for cleaning circuit boards.
+Flux residue (especially from low quality solder) may form slightly conductive bridges between power rails, which are very noticeable when there's 40 of them in parallel. I recommend isopropyl alcohol (isopropanol) for cleaning circuit boards.
 
 ## Component availability/choices
 
@@ -61,6 +61,6 @@ Capacitor values are absolutely uncritical as well. The board would probably wor
 
 TODO
 
-Copyright © 2021 Butch Warns
+Copr. 2021, Butch Warns
 
 
