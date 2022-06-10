@@ -2760,6 +2760,15 @@
     (uuid ffe1a74f-dbf9-4c4d-9bab-fc277eba9618)
   )
 
+  (text "6.3mm flat connectors" (at 52.07 36.83 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 725e534d-9b36-4519-8019-4fed3be95c20)
+  )
+  (text "6.3mm flat connectors" (at 219.71 66.04 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 79749c61-ea26-4992-b53d-1f08cd9b11c3)
+  )
+
   (global_label "CV" (shape input) (at 222.25 43.18 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 09446760-860d-46e4-a2cb-b4efb2197664)
