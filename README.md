@@ -1,6 +1,6 @@
 # Eurorack_Bus_Board
 
-[![OPEN SOURCE](https://img.shields.io/badge/Open%20source%3F-YES-green.svg)](https://shields.io/) [![NOT BEGINNER FRIENDLY](https://img.shields.io/badge/Beginner%20friendly%3F-YES-green.svg)](https://shields.io/)
+[![OPEN SOURCE](https://img.shields.io/badge/Open%20source%3F-YES-green.svg)](https://shields.io/)
 
 A simple but versatile bus board for modular synthesizers in the Eurorack format.  
 It's cheap and easy to build and has many slots for connecting modules with both 10-pin and 16-pin connectors.
